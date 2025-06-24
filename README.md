@@ -10,4 +10,5 @@ In this project, I ingested sensor and customer data from the STEDI Step Trainer
 
 
 #### References
-I used GenAI for assisting with debugging Glue job logic, optimizing SQL queries, interpreting project requirements, and navigating AWS Glue Studio throughout the project. The guidance helped ensure accuracy in row counts, proper filtering for research consent, and compliance with the project suggestions.
+In addition to studying the course material throughout the Udacity Nanodegree, I used generative AI tools (such as ChatGPT) to assist with debugging Glue job logic, optimizing SQL queries, interpreting project requirements, and navigating AWS Glue Studio. This support helped ensure accurate row counts, proper filtering for research consent, and alignment with both core and stand-out project expectations.
+
