@@ -9,4 +9,5 @@ In this project, I ingested sensor and customer data from the STEDI Step Trainer
 - All screenshots demonstrating correct row counts for each of the tables created and adherence to the project suggestions are in the “Screenshots of Athena Queries” folder.
 
 
-
+#### References
+I used GenAI for assisting with debugging Glue job logic, optimizing SQL queries, interpreting project requirements, and navigating AWS Glue Studio throughout the project. The guidance helped ensure accuracy in row counts, proper filtering for research consent, and compliance with the project suggestions.
