@@ -11,6 +11,6 @@ STORED AS INPUTFORMAT
 OUTPUTFORMAT 
   'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
 LOCATION
-  's3://stedibucket-codylee/step_trainer_landing/'
+  's3://stedibucket-codylee/accelerometer_landing/'
 TBLPROPERTIES (
   'classification'='json')
